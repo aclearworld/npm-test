@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "npm-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aclearworld/npm-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kotatu <yamamichi1995@outlook.jp> (https://github.com/aclearworld)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aclearworld/npm-test/issues"
+  },
+  "homepage": "https://github.com/aclearworld/npm-test#readme"
+}
